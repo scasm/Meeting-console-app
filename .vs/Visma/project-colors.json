@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2712db02-f891-410c-bdd9-fce661f86d0f": {
+      "ProjectGuid": "2712db02-f891-410c-bdd9-fce661f86d0f",
+      "DisplayName": "Visma",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d16d2fe2-cf6e-4244-8667-3b651fc6c690": {
+      "ProjectGuid": "d16d2fe2-cf6e-4244-8667-3b651fc6c690",
+      "DisplayName": "AppTests",
+      "ColorIndex": 1
+    },
+    "d1459561-4d28-42b6-9564-7f4248281c8d": {
+      "ProjectGuid": "d1459561-4d28-42b6-9564-7f4248281c8d",
+      "DisplayName": "ApplicationTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

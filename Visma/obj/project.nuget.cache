@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwX0t5fk7lg7q8p8f/2mAaU8hc7vAhvxrsjGWaxOlhLNXGukNttICl6shiXE8a82ejybi7Vr4fBnw099DFxv4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justj\\source\\repos\\Visma\\Visma\\Visma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justj\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

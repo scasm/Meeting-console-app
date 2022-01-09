@@ -1,0 +1,17 @@
+C:\Users\justj\source\repos\Visma\Visma\bin\Debug\net6.0\Visma.exe
+C:\Users\justj\source\repos\Visma\Visma\bin\Debug\net6.0\Visma.deps.json
+C:\Users\justj\source\repos\Visma\Visma\bin\Debug\net6.0\Visma.runtimeconfig.json
+C:\Users\justj\source\repos\Visma\Visma\bin\Debug\net6.0\Visma.dll
+C:\Users\justj\source\repos\Visma\Visma\bin\Debug\net6.0\ref\Visma.dll
+C:\Users\justj\source\repos\Visma\Visma\bin\Debug\net6.0\Visma.pdb
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.AssemblyInfoInputs.cache
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.AssemblyInfo.cs
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.csproj.CoreCompileInputs.cache
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.dll
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\ref\Visma.dll
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.pdb
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.genruntimeconfig.cache
+C:\Users\justj\source\repos\Visma\Visma\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.csproj.CopyComplete
+C:\Users\justj\source\repos\Visma\Visma\obj\Debug\net6.0\Visma.csproj.AssemblyReference.cache
